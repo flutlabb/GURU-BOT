@@ -1,6 +1,6 @@
 <p align="center">  
   <a href="https://youtu.be/PnRqe5F4uQU?si=aJWW7ben4RzthCdZ">
-    <img alt="Guru" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/K.jpg">
+    <img alt="Guru" height="300" src="https://drive.google.com/file/d/1BWWaMoopVYP3QONJuC0oNgq7QceYV3ES/view?usp=drivesdk">
     <h1 align="center">Nikki.au 2.O</h1>
   </a>
 </p>
